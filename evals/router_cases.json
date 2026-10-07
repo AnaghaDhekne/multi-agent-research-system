@@ -1,0 +1,14 @@
+[
+  {"query": "What is a Python decorator?", "expected": "PYTHON"},
+  {"query": "How should I structure a Python package?", "expected": "PYTHON"},
+  {"query": "When should I use asyncio in Python?", "expected": "PYTHON"},
+  {"query": "What does Unity Catalog do?", "expected": "DATABRICKS"},
+  {"query": "What is Photon in Databricks?", "expected": "DATABRICKS"},
+  {"query": "How does Databricks Vector Search support RAG?", "expected": "DATABRICKS"},
+  {"query": "How should I package a Python RAG app and host it with Databricks Apps?", "expected": "BOTH"},
+  {"query": "How can a Python application use Databricks Vector Search?", "expected": "BOTH"},
+  {"query": "How would I test a Python app before deploying it on Databricks?", "expected": "BOTH"},
+  {"query": "Who won the World Cup?", "expected": "UNSUPPORTED"},
+  {"query": "What is the weather tomorrow?", "expected": "UNSUPPORTED"},
+  {"query": "Explain photosynthesis.", "expected": "UNSUPPORTED"}
+]
